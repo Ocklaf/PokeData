@@ -1,5 +1,6 @@
 import React from "react"
 import useGetUrlImg from "./use_get_img_url"
+import "./styles/pokedata.css"
 import Loading from "./Loading"
 
 function PokeData(props) {
